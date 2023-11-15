@@ -1,0 +1,117 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* first page */
+header {
+    background-color: #4CAF50;
+    background-image: url(https://images.unsplash.com/photo-1421789665209-c9b2a435e3dc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNjI5NjF8MHwxfHNlYXJjaHwxMnx8ZWFydGh8ZW58MHx8fHwxNjk5ODkyODQ3fDA&ixlib=rb-4.0.3&q=80&w=1080);
+    color: #ffffff;
+    padding: 50px;
+    text-align: center;
+    font-size: larger;
+    position: sticky;
+}
+
+.hero {
+    text-align: center;
+    color: black;
+    padding: 0px 0px;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+}
+/* first page end */
+section {
+    padding: 50px 0;
+}
+/* second page */
+.container0 {
+    padding: 20px 90px;
+    background-color: black;
+    width: 80%;
+    margin: 100px;
+}
+#about{
+    background-image: url(https://images.pexels.com/photos/413195/pexels-photo-413195.jpeg?auto=compress&cs=tinysrgb&w=1600);
+    background-color: black;
+    font-size: large;
+    color: #ffffff;
+    
+}
+/* second page end */
+
+/* third page */
+.container1 {
+   
+    width: 80%;
+    padding-right: 100px;
+    margin: 50px;
+    background-image: url();
+}
+
+#issues{
+    padding: 100px;
+    background-color: dimgrey;
+}
+#cnt-1_heading{
+    font-size: xx-large;
+    text-align: center;
+    
+}
+/* third page end */
+.container2 {
+    width: 80%;
+    margin: 100px;
+}
+.container3 {
+    width: 80%;
+    margin: 100px;
+}
+.container4 {
+    width: 80%;
+    margin: 100px;
+}
+
+
+
+footer {
+    background-color: #333333;
+    color: #fff;
+    text-align: center;
+    padding: 0px;
+    position: sticky;
+    bottom: 0px;
+    width: 100%;
+}
+/* img */
+#logo{
+    float:right;
+} 
+#pictures{
+    
+    width: 400px;
+    height: 250px;
+    
+}
+/* img end */
+
+.def{
+    background-image: url();
+}
